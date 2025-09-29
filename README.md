@@ -18,4 +18,9 @@ This project allows you to log, track, and visualize expenses, with basic analyt
 - CSV (for storing expenses)
 
 ## Project Structure
-
+Expense_Tracker/
+│
+├── expense_data.csv # Sample expense data
+├── expense_tracker_logistic_regression.ipynb # Notebook for analysis
+├── README.md # Project documentation
+└── LICENSE # MIT License
